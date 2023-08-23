@@ -1,2 +1,2 @@
 # TS-Country-Codes
-Country Code Utility
+Country Code Utility for TypeScript
