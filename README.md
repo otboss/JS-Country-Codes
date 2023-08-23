@@ -1,2 +1,2 @@
-# JS-Country-Codes
+# TS-Country-Codes
 Country Code Utility
